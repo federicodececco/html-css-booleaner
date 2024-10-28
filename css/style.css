@@ -59,5 +59,25 @@
 }
 .undertable {
   padding-top: 10px;
-  padding-bottomo: 10px;
+  padding-bottom: 30px;
+}
+.firstfoot {
+  background-image: url("../img/monitor.jpg");
+  height: 207px;
+  width: auto;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  padding-bottom: 30px;
+  font-size: 25px;
+  color: white;
+}
+.secondfoot {
+  background-image: url("../img/graph.jpg");
+  height: 207px;
+  width: auto;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  padding-bottom: 30px;
+  font-size: 25px;
+  color: white;
 }
