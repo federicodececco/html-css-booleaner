@@ -36,7 +36,7 @@
 .tabu {
   text-align: left;
   width: 100%;
-  border-collapse: collapse;/* it seems to remove the white middle spaces */
+  border-collapse: collapse; /* it seems to remove the white middle spaces */
 }
 .head {
   background-color: #20a9e5;
@@ -54,6 +54,10 @@
   color: white;
   font-weight: bold;
 }
-.rowodd{
-  background-color: #B1E5F2;
+.rowodd {
+  background-color: #b1e5f2;
+}
+.undertable {
+  padding-top: 10px;
+  padding-bottomo: 10px;
 }
