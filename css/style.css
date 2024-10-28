@@ -1,3 +1,25 @@
 .header {
-  background-image: url('../img/logo.svg');
+  height: 150px;
+  background-image: url("../img/pattern.png");
+  background-size: contain;
+  background-repeat: repeat-x;
+  background-color: #4ea0ff;
+}
+
+.logo {
+  background-image: url("../img/logo.svg");
+  height: 40%;
+  width: auto;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.title {
+  padding-top: 30px;
+  font-size: 45px;
+  padding-bottom: 30px;
+}
+.ubuntu {
+  font-family: "Ubuntu", serif;
+  font-weight: 400;
+  font-style: normal;
 }
