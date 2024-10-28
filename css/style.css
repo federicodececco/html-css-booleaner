@@ -29,6 +29,19 @@
 .gray {
   color: #808080;
 }
-.subtext {
-  font-size: 12px;
+.text {
+  font-size: 14px;
+}
+
+.tabu {
+  text-align: left;
+}
+.text .head {
+  font-weight: bold;
+}
+.cell12 {
+  width: 200px;
+}
+.row {
+  height: 20px;
 }
