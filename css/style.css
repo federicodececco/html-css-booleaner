@@ -35,13 +35,25 @@
 
 .tabu {
   text-align: left;
+  width: 100%;
+  border-collapse: collapse;/* it seems to remove the white middle spaces */
+}
+.head {
+  background-color: #20a9e5;
 }
 .text .head {
+  color: white;
+  font-weight: bold;
+}
+.cell3 {
+  color: white;
   font-weight: bold;
 }
 .cell12 {
   width: 200px;
+  color: white;
+  font-weight: bold;
 }
-.row {
-  height: 20px;
+.rowodd{
+  background-color: #B1E5F2;
 }
